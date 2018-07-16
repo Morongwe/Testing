@@ -1,0 +1,4 @@
+Further Tests using Git
+•	Pipes – receiving data and passing it on
+o	Not only receiving, but we receive data and go on to do something with it, trigger actions not related to the original event.
+o	Example, create a script that creates a Tweet, have it triggered by a WebHook whenever you add a new product on your commercial site.
